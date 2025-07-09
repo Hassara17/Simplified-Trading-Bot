@@ -1,0 +1,20 @@
+According to Code Portion You have to change the api key according to the country and have to use vpn serive country excluding china ,india etc.
+Because Binance restricts access to its services (including API) in certain countries like:
+
+🇺🇸 United States
+
+🇮🇳 India (Binance Futures sometimes blocked)
+
+🇨🇳 China
+
+🇨🇦 Ontario
+
+🇳🇱 Netherlands
+
+🇬🇧 United Kingdom (some services)
+
+
+Api key changes code segment as : 
+API_KEY = "your_copied_api_key"
+API_SECRET = "your_copied_api_secret"
+change these code section according to Binance authorized key api .
